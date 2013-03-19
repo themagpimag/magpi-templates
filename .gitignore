@@ -9,7 +9,10 @@
 ## Scribus specific
 *.sla.autosave
 fontconfig
+*.afm
+*.pfb
 *.pdf
+GenericCMYK.icm
 
 ## For java
 *.class

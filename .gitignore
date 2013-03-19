@@ -1,0 +1,22 @@
+## generic files to ignore
+*~
+*.lock
+*.~lock.*
+*.DS_Store
+*.swp
+*.out
+
+## Scribus specific
+*.sla.autosave
+fontconfig
+*.pdf
+
+## For java
+*.class
+
+## For python
+*.pyc
+
+## C/C++/Fortran etc..
+*.o
+*.exe

@@ -9,10 +9,13 @@
 ## Scribus specific
 *.sla.autosave
 fontconfig
-*.afm
-*.pfb
 *.pdf
 GenericCMYK.icm
+*.afm
+*.pfb
+
+## Apple meta data
+.AppleDouble
 
 ## For java
 *.class
